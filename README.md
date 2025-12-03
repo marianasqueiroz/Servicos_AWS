@@ -30,7 +30,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 1. Perfeito para farmácias com horários de pico: Picos às 18h (movimento pós-trabalho) e baixo uso de madrugada.
 2. Aurora Serverless → o banco cresce e diminui sozinho → você paga só pelo momento em que está sendo usado.
 
-\
+
 *Etapa 3: AWS Backup*
 - Finalidade: proteger o sistema da farmácia (ERP, banco de dados, arquivos) sem contratar TI local.
 ➡️ Como reduz custos:
