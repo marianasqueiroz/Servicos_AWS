@@ -21,14 +21,14 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 2. Permite arquivar receitas digitalizadas, notas fiscais, fotos de produtos, backups do sistema
 3. Evita manutenção de servidor físico
 4. Evita compra de HDs externos 
-\
+\\
 *Etapa 2: Aurora Serveless*
 - Finalidade: É totalmente gerenciado, podendo dispensar a contratação de TI para: instalar banco de dados, fazer backup, configurar replicação otimizar performance etc.
 
 ➡️ Como reduz custos:
 1. Perfeito para farmácias com horários de pico: Picos às 18h (movimento pós-trabalho) e baixo uso de madrugada.
 2. Aurora Serverless → o banco cresce e diminui sozinho → você paga só pelo momento em que está sendo usado.
-\
+\\
 *Etapa 3: AWS Backup*
 - Finalidade: proteger o sistema da farmácia (ERP, banco de dados, arquivos) sem contratar TI local.
 ➡️ Como reduz custos:
